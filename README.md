@@ -37,7 +37,6 @@ Visualizations include:
 - Heatmaps and count plots for state and occupation-wise analysis
 - Distribution plots for order amounts
 
-> 📌 *You can add screenshots of your graphs here for better presentation.*
 
 ## 🚀 How to Run
 
